@@ -809,15 +809,12 @@ footer {
 	flex-wrap: nowrap;
 	align-items: center;
 	justify-content: space-around;
-	position: fixed;
+	position: sticky;
 	bottom: 0;
 	z-index: 10;
 	height: 70px;
 	width: 100%;
 	transition: all 0.2s;
-}
-
-footer:hover {
 	background-color: #282828;
 }
 
