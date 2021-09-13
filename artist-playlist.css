@@ -81,6 +81,7 @@ nav {
 	align-items: center;
 	height: 70px;
 	width: 100%;
+	background-color: #282828;
 	padding: 0 2%;
 	position: sticky;
 	top: 0;
